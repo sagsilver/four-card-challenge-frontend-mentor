@@ -50,20 +50,21 @@ p {
   margin: 0 auto;
 }
 #header h2 {
-  margin: 20px 0 2px 0;
+  margin: 40px 0 2px 0;
   padding: 2px 0;
-  font-size: 25px;
+  font-size: 30px;
 }
 #header h1 {
   margin: 2px 0 2px 0;
   padding: 2px 0;
-  font-size: 25px;
   font-weight: 600;
+  font-size: 30px;
 }
 #header p {
-  font-size: 12px;
+  font-size: 15px;
   margin: 2px 0 30px 0;
   padding: 2px 0;
+  
 }
 #main {
   width: auto auto;
@@ -115,7 +116,7 @@ p {
 }
 .caption-sub {
   width: 35vmin;
-  font-size: 12px;
+  font-size: 15px;
   padding-top: 0px;
   margin-top: 0px;
   text-align: justify;
