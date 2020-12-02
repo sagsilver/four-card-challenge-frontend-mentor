@@ -1,4 +1,4 @@
-:root {
+root {
   --Font-size: 15px;
   --Mobile: 375px;
   --Desktop: 1440px;
@@ -33,7 +33,7 @@ h2 {
 h3 {
   color: var(--Very-Dark-Blue);
   padding-bottom: 0;
-  margin-bottom: 5px;
+  margin-bottom: 18px;
 }
 
 p {
@@ -114,19 +114,20 @@ p {
   -webkit-box-shadow: 9px 8px 12px -1px #a3a5ae;
   box-shadow: 9px 8px 12px -1px #a3a5ae;
 }
-.caption-sub {
-  width: 35vmin;
-  font-size: 15px;
-  padding-top: 0px;
-  margin-top: 0px;
+caption-sub {
+    font-size: 15px;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-right: 15px;
   text-align: justify;
 }
 .icon {
   margin: 5px;
   position: relative;
-  width: 45px;
-  height: 45px;
-  left: 230px;
+  width: 70px; 
+  height: 70px; 
+  left: 200px; 
+  bottom: -50px;
 }
 #card-supervisor {
   border-top: solid 3px var(--Cyan);
